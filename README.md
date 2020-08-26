@@ -10,10 +10,10 @@ This notice does not apply if you have received a license from me from elsewhere
 - done
 (note: the application works best in desktop enviroments which have a system tray, but should work anywhere java is supported)
 
-##usage
+## usage
 Code/files to be deployed should be placed in the this application's "push" folder (located in the same directory as the jar), if this folder has sub directories, it should be placed in the directory with the correct config for the project being deployed.
 
-##configuration
+## configuration
 the config files are stored in the "push" folder and end in .TDDDTConfig
 this application includes a config wizzard by creating them by hand is recommended
 they are structured as follows:
