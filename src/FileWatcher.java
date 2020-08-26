@@ -4,11 +4,8 @@ import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 
 /**
- * FileWatcherService to be implemented to perform any action after the file
- * event is detected
  * 
- * @author Omkar Marathe
- * @since October 20,2018
+ * Based on Omkar Marathe's file watcher implementation.
  *
  */
 public class FileWatcher implements Runnable {
