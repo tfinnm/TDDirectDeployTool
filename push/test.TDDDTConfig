@@ -1,0 +1,11 @@
+.*
+raspberrypi
+pi
+pi
+/home/pi/Desktop
+false
+pi
+mkdir test1
+push/test.TDDDTConfig
+mkdir test2
+push/test.TDDDTConfig
