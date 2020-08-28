@@ -1,4 +1,7 @@
 # TDDirectDeployTool
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f215251539c4cc8bc18823a49845f3b)](https://app.codacy.com/manual/toby_mcdonald/TDDirectDeployTool?utm_source=github.com&utm_medium=referral&utm_content=tfinnm/TDDirectDeployTool&utm_campaign=Badge_Grade_Settings)
+
 CI tool for automatically deploying code to a server using SSH and SFTP
 
 STOP! this project is not open source and has not been licensed to you, you may not use it! A license will be added to this repo in the near future at which time you will be able to use this tool, in the mean time, please be patient and respect copyright law.
